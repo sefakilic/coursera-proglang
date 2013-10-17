@@ -1,0 +1,1 @@
+Programming exercises for [[https://www.coursera.org/course/proglang][the Coursera Programming Languages course]] by Dan Grossman.
